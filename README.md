@@ -13,12 +13,13 @@ Kubernetes cluster creating guide
 
 # 文档怎么看
 目前共有三篇文档, 先从`kubernetes_preinstall.md`开始,  里面介绍了在安装kubernetes之前所需要的操作. 接下来`kubernetesMaster.md`和`kubernetesNode.md`分别讲了master和node中的各组件配置方式.
-```
+```bash
 kubernetes_preinstall.md #安装前的准备
 kubernetesMaster.md #kube-apiserver kube-controller-manager kube-scheduler 配置方式
 kubernetesNode.md #kubelet kube-proxy 配置方式
 ```
 
 # 重要
-这篇文档基于我个人对kubernetes的理解,所以肯定是有考虑不周全甚至方向的错误, 恳请看到文档的人斧正这篇文档, 非常乐意和各路高手学习交流.
+这篇文档基于我个人对kubernetes的理解,所以肯定是有考虑不周全甚至方向的错误, 恳请看到文档的人斧正这篇文档, 非常乐意和各路高手学习交流.  
+**如需转载,请联系我先**
 
